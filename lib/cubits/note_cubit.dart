@@ -13,3 +13,6 @@ class NoteCubit extends Cubit<Note?> {
     emit(note);
   }
 }
+
+
+// class NoteCubit extends Cubit<Note?> 
